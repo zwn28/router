@@ -1,4 +1,4 @@
-# vue-router [![release candidate](https://img.shields.io/npm/v/vue-router.svg)](https://www.npmjs.com/package/vue-router) [![CircleCI](https://badgen.net/circleci/github/vuejs/router/main)](https://www.bing.com/images/search?view=detailV2&ccid=1u%2fZ6phV&id=C7CF12239AF8FEC8F248D5912E5E9F1F571C10BA&thid=OIP.1u_Z6phVHL2nzz9AYS_AeAHaHf&mediaurl=https%3a%2f%2fcdn.freebiesupply.com%2flogos%2flarge%2f2x%2fcircleci-logo-png-transparent.png&exph=2428&expw=2400&q=circle+ci&simid=608000312595137516&FORM=IRPRST&ck=01D180B99A096DE95576043B9D07560D&selectedIndex=1)
+# vue-router [![release candidate](https://img.shields.io/npm/v/vue-router.svg)](https://www.npmjs.com/package/vue-router) [![CircleCI](bit.ly/3ViU19N)
 
 > - This is the repository for Vue Router 4 (for Vue 3)
 > - For Vue Router 3 (for Vue 2) see [vuejs/vue-router](https://github.com/vuejs/vue-router).
